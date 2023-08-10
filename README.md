@@ -3,7 +3,7 @@ Clone of the Netflix website as a light HTML CSS and JS : http://127.0.0.1:5500/
 
 ##What it is
 
-A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepage. Built with:
+A basic warmup. Simple, practice oriented, clone of the Netflix Homepage. Built with:
 
 HTML
 CSS
